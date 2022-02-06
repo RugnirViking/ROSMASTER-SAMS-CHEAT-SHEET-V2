@@ -2,7 +2,7 @@
 ![# ROSMASTER SAM'S CHEAT SHEET V2](https://i.imgur.com/VfweMIg.png)
 ***This time it's even ROSsier***
 
-This document should serve as a reference for using ROS in basic robot development. Not compatible with ROS 2. Tested on melodic & noetic.
+This document should serve as a reference for using ROS in !basic! robot development. Not compatible with ROS 2. Tested on melodic & noetic.
 
 
 **- The basics -**
@@ -133,4 +133,6 @@ Go aaaaaall the way down to the catkin workspace base directory, and then run
 This will build all packages in the catkin workspace. Packages really should be rebuilt each and every time you make a change to python or c++ code, but *sometimes* you can get away without re-building with python nodes. If it's behaving strangely, re-build first! 
 
 Finally, remember to [Source the workspace](#sourcing-the-workspace), and then [Run your node!](#running-a-node)
+
+Todo: add a section for messages, services, c++ nodes. Add a section for how to download ros packages like rosserial.
 
