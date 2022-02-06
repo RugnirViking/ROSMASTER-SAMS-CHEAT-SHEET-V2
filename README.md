@@ -14,7 +14,7 @@ or paste the contents of this file into an online  markdown editor,
 like https://dillinger.io/ -->
 
 Inside of this file whenever I write a command you should input, I will write it with the following format:
-> commandname --mod1 -mod2 argument_1 argument_2 
+> commandname argument_1 argument_2 
 
 Pay close attention to the spaces between arguments, they are important!
 
