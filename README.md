@@ -135,4 +135,4 @@ This will build all packages in the catkin workspace. Packages really should be 
 Finally, remember to [Source the workspace](#sourcing-the-workspace), and then [Run your node!](#running-a-node)
 
 Todo: add a section for messages, services, c++ nodes. Add a section for how to download ros packages like rosserial.
-
+Extra todo if im feeling fancy: record a youtube video of me going through the process outlined above.
