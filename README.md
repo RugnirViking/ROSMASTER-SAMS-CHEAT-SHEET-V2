@@ -130,7 +130,7 @@ Go aaaaaall the way down to the catkin workspace base directory, and then run
 
 > catkin_make
 
-This will build all packages in the catkin workspace. packages should be rebuilt each and every time you make a change to python or c++ code, but *sometimes* you can get away without re-building with python nodes. If it's behaving strangely, re-build first! 
+This will build all packages in the catkin workspace. Packages really should be rebuilt each and every time you make a change to python or c++ code, but *sometimes* you can get away without re-building with python nodes. If it's behaving strangely, re-build first! 
 
 Finally, remember to [Source the workspace](#sourcing-the-workspace), and then [Run your node!](#running-a-node)
 
