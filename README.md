@@ -24,7 +24,7 @@ descriptive name you want, not "name"
 
 Finally, note that this document is only intented as an introduction to get you coding nodes with python as fast as possible. For a more in-depth tutorial, or to learn to use c++ please read and follow along with **all** of the "basic" tutorials listed at http://wiki.ros.org/ROS/Tutorials
 
-You won't regret following them, it only takes a couple minutes and its going to help a ton when you're doing your project. I also recommend taking a look at http://wiki.ros.org/rosserial_python, which is a ros package for communticating over a serial bus with ros (to an arduino, teensy etc)
+You won't regret following them, it only takes a couple hours and its going to help a ton when you're doing your project. I also recommend taking a look at http://wiki.ros.org/rosserial_python, which is a ros package for communticating over a serial bus with ros (to an arduino, teensy etc)
 
 ## The Terminal
 The first thing we are going to need to do is open a terminal/shell/command prompt. You can do this in a number of ways, 
